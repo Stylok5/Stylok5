@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Kostas  👋
 
+I am a Junior Software Engineer based in Athens. 
+I have experience working with: HTML|CSS|JavaScript|React|Node.js|Express.js|Python|Django|MongoDB|PostgreSQL
+
+🔭 I’m currently working on my portofolio page using frontend technologies like React, JavaScript, HTML, SASS
+
+You can visit my linkedin [here](https://www.linkedin.com/in/kostas-fergadis/) 🙂
+Check out some of my pinned projects below 🌱
 <!--
 **Stylok5/Stylok5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
