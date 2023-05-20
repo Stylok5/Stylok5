@@ -2,7 +2,7 @@
 
 I am a Junior Software Engineer based in Athens. 
 
-I have experience working with: HTML|CSS|JavaScript|React|Node.js|Express.js|Python|Django|MongoDB|PostgreSQL
+I have experience working with: HTML | CSS | JavaScript | React | Node.js | Express.js | Python | Django | MongoDB | PostgreSQL
 
 🔭 I’m currently working on my portofolio page using frontend technologies like React, JavaScript, HTML, SASS
 
