@@ -5,7 +5,7 @@ I am a Junior Software Developer based in Athens and I recectly completed Genera
 I have experience working with: HTML | CSS | JavaScript | React | Node.js | Express.js | Python | Django | MongoDB | PostgreSQL
 
 🔭 I’m currently working on my portofolio page using frontend technologies like React, JavaScript, HTML, SASS
-Updated(Portofolio link [here](https://kostas-fergadis.netlify.app/)
+(Updated)Portofolio link [here](https://kostas-fergadis.netlify.app/)
 
 You can visit my linkedin [here](https://www.linkedin.com/in/kostas-fergadis/) 🙂
 
