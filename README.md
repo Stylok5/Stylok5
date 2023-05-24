@@ -1,11 +1,11 @@
 ### Hi there, I'm Kostas  👋
 
-I am a Junior Software Engineer based in Athens and I recectly completed General Assembly's Software Engineering course, from November 2022 to May 2023.
+I am a Junior Software Developer based in Athens and I recectly completed General Assembly's Software Engineering course, from November 2022 to May 2023.
 
 I have experience working with: HTML | CSS | JavaScript | React | Node.js | Express.js | Python | Django | MongoDB | PostgreSQL
 
 🔭 I’m currently working on my portofolio page using frontend technologies like React, JavaScript, HTML, SASS
-
+Updated(Portofolio link [here]([https://kostas-fergadis.netlify.app/])
 You can visit my linkedin [here](https://www.linkedin.com/in/kostas-fergadis/) 🙂
 
 Check out some of my pinned projects below 🌱
