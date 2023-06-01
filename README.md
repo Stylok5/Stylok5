@@ -6,7 +6,7 @@ I have experience working with: HTML | CSS | JavaScript | React | Node.js | Expr
 
 🔭 I recently started working on creating a file organiser using python, so that I can gain more experience with the language.
 
-(Updated)Portofolio link [here](https://kostas-fergadis.netlify.app/) and linkedin [here](https://www.linkedin.com/in/kostas-fergadis/) 🙂
+Portofolio link [here](https://kostas-fergadis.netlify.app/) and linkedin [here](https://www.linkedin.com/in/kostas-fergadis/) 🙂
 
 Check out some of my pinned projects below 🌱
 <!--
